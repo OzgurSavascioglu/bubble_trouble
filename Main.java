@@ -2,7 +2,7 @@
 //Environment.setCanvas() creates the canvas
 //Environment.getBubbleTrouble().gameplay() starts the Bubble Trouble game
 
-public class Ozgur_Savascioglu {
+public class Main {
 	
 	public static void main (String[] args){
 		
